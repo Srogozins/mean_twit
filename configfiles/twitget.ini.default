@@ -1,0 +1,15 @@
+[query]
+keywords = advice,help
+or = True
+default_since_id = 100
+interval = 900
+
+[auth]
+consumer_key = 	XXXXXXXXXXX
+consumer_secret = XXXXXXXXXX
+access_token = XXXXXXXXXXX
+access_token_secret = XXXXXXXXX
+
+[db]
+host = localhost
+port = 27017
